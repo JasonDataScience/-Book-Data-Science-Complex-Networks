@@ -95,16 +95,19 @@ N개의 노드에서 출발 노드를 제외한 n-1개의 노드를 일렬로 �
 
 ### 정리
 
-- 인접행렬은 간단한 그래프를 표현하기에 적합하며 탐색도 비교적 손쉽게 가능하다. 하지만 시간과 공간복잡도가 비효율적이므로 사용에 주의가 필요하다.
+- 인접행렬은 간단한 그래프를 표현하기에 적합하며 탐색도 비교적 손쉽게 가능하다. 하지만 시간과 공간복잡도가 비효율적이므로 사용에 주의가 필요하다고 한다.
 
-- 인접행렬의 구현목적은 그래프의 탐색에 있다. 인접행렬을 통해서 깊이 또는 너비 우선 탐색 구현 연습을 많이 해보기를 추천한다.
+- 인접행렬의 구현목적은 그래프의 탐색에 있다. 인접행렬을 통해서 깊이 또는 너비 우선 탐색 구현 연습을 많이 해보아야 겠다.
 
 - 인접리스트와 비교하여 상황에 적합한 자료구조를 선택하여 사용해야 한다. 네트워크 이론에서 많이 쓰이며, Chapter 1의 Food Web에서도 많이 강조된다.
 
   
   
 ### Reference
- [https://lasthere.tistory.com/15](https://lasthere.tistory.com/15) 
- [http://ddmix.blogspot.com/2015/06/cppalgo-22-directed-graph.html](http://ddmix.blogspot.com/2015/06/cppalgo-22-directed-graph.html)
+ [https://lasthere.tistory.com/15]
+ (https://lasthere.tistory.com/15)
+[http://ddmix.blogspot.com/2015/06/cppalgo-22-directed-graph.html]
+(http://ddmix.blogspot.com/2015/06/cppalgo-22-directed-graph.html)
  [https://smlee729.github.io/python/network%20analysis/2015/03/31/1-reachability.html](https://smlee729.github.io/python/network%20analysis/2015/03/31/1-reachability.html)
- [https://frhyme.github.io/python-libs/check_reachability_in_graph/](https://frhyme.github.io/python-libs/check_reachability_in_graph/)
+[https://frhyme.github.io/python-libs/check_reachability_in_graph/]
+(https://frhyme.github.io/python-libs/check_reachability_in_graph/)
