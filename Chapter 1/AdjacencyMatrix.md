@@ -104,10 +104,7 @@ N개의 노드에서 출발 노드를 제외한 n-1개의 노드를 일렬로 �
   
   
 ### Reference
- [https://lasthere.tistory.com/15]
- (https://lasthere.tistory.com/15)
-[http://ddmix.blogspot.com/2015/06/cppalgo-22-directed-graph.html]
-(http://ddmix.blogspot.com/2015/06/cppalgo-22-directed-graph.html)
- [https://smlee729.github.io/python/network%20analysis/2015/03/31/1-reachability.html](https://smlee729.github.io/python/network%20analysis/2015/03/31/1-reachability.html)
-[https://frhyme.github.io/python-libs/check_reachability_in_graph/]
-(https://frhyme.github.io/python-libs/check_reachability_in_graph/)
+https://lasthere.tistory.com/15
+http://ddmix.blogspot.com/2015/06/cppalgo-22-directed-graph.html
+https://smlee729.github.io/python/network%20analysis/2015/03/31/1-reachability.html
+https://frhyme.github.io/python-libs/check_reachability_in_graph/
